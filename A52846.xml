@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nobiliss. Ampliss. Illustriss. dominis D. Gilberto Erroliæ comiti, D. Haio, magno stabuli magistro, &amp;c. nec non D. Roberto D. Rossio, Barroni de Haket Melvin, &amp;c. ... Julij an. Dom. 1648 horis &amp; loco solitis pre̜side D. Nevaio honoris obsequii &amp; observantiæ ergo, D.N.Q. ...</title>
+            <title>Theses. 1648.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52846</idno>
+            <idno type="STC">Wing N501</idno>
+            <idno type="STC">ESTC R220261</idno>
+            <idno type="EEBO-CITATION">99831683</idno>
+            <idno type="PROQUEST">99831683</idno>
+            <idno type="VID">36148</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52846)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36148)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2051:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nobiliss. Ampliss. Illustriss. dominis D. Gilberto Erroliæ comiti, D. Haio, magno stabuli magistro, &amp;c. nec non D. Roberto D. Rossio, Barroni de Haket Melvin, &amp;c. ... Julij an. Dom. 1648 horis &amp; loco solitis pre̜side D. Nevaio honoris obsequii &amp; observantiæ ergo, D.N.Q. ...</title>
+                  <title>Theses. 1648.</title>
+                  <author>Nevay, David.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>execudebat Gideon Lithgovv,</publisher>
+                  <pubPlace>Edinburgi :</pubPlace>
+                  <date>anno Dom. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Student's names in five columns beneath the title; theses listed in two columns beneath the student's names.</note>
+                  <note>Reproduction of the original in the Edinburgh University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Education --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:36148:1" rendition="simple:additions"/>
+            <head>NOBILISS. AMPLISS. ILLVSTRISS. DOMINIS, D. GILBERTO ERROLIAE Comiti, D. Haio, Magno ſtabuli Magiſtro, &amp;c. NEC NON D.ROBERTO D. ROSSIO, Barroni de Haket Melvin, &amp;c. Patronis, ac fautoribus ſuis plurimum colendis, Athenaeo Leonardino ad fanum Reguli hac vice cum triumphali Laurea egreſſuri adoleſcentes, Theſes haſce Philoſophicas, quas in quadriml proſectus ſpecimen, <hi>A. P. N.</hi> inſolenni Philoſophantium diatriba, quam poterunt ſtrenue, ſunt propugnaturi ad diem Julij <hi>An. Dom.</hi> 1648. horis &amp; loco ſolitis Preſide D. Nevaio honoris obſequii &amp; obſervantiae ergo, D. N. Q.</head>
+            <div type="list_of_candidates">
+               <list>
+                  <item>Alexander Campbellus.</item>
+                  <item>Collinus Kenedaus.</item>
+                  <item>Gulielmus Clilandus.</item>
+                  <item>Gulielmus Kinkchartus.</item>
+                  <item>Gulielmus Righius.</item>
+                  <item>Gulielmus Sharpius:</item>
+                  <item>Henricus Drummondus.</item>
+                  <item>Hugo Weirus.</item>
+                  <item>Jacobus Adamus.</item>
+                  <item>Jacobus Campbellus.</item>
+                  <item>Jocobus Edmiſtonus.</item>
+                  <item>Jacobus Huttonus.</item>
+                  <item>Jacobus Murraius.</item>
+                  <item>Jacobus Wemius.</item>
+                  <item>Joannes Bairdaus.</item>
+                  <item>Joannes Coquus.</item>
+                  <item>Joannes Grahamus.</item>
+                  <item>Nathaneel Johuſtonus.</item>
+                  <item>Patricius Anderſonus.</item>
+                  <item>Robertus Blakaus.</item>
+               </list>
+            </div>
+            <div type="lists_of_theses">
+               <list>
+                  <head>THESES LOGICAE.</head>
+                  <item>
+                     <seg rend="decorInit">A</seg>Rgute Philoſophandi laudem aliâs aucupentur Ignatiani, quam ubi celebri itti ſcientiarum albo, unde ipſa coaleſcit Philoſophia, accenſendam docent Logicam; quae tota, quanta quanta eſt, Organica eſt, &amp; Philoſophiae obſe<g ref="char:EOLhyphen"/>quio mancipata.</item>
+                  <item>2 Ideae Logicae ut quivis alii conceptus formales, eſſentiam ſortiuntur realem; quippe mentis ſunt accidentia realia: At quae iis in rebus ipſis re<g ref="char:EOLhyphen"/>ſpondere concipiuntur notiones objectivae, five negationes ſint, five relationes, ſunt modi rationis rebus intrinſeci, non vero denominationes reales extrinſecae: nullum enim vendicant eſſe, niſi objectivum in intellectu.</item>
+                  <item>3 In mentis actiones quadrare rationem praxeos cum Doctore Franciſcano tum de<g ref="char:EOLhyphen"/>mum inſiciabimur, cum conſtiterit actus prudentiae ab intellectu elicitos eandem praxe<g ref="char:EOLhyphen"/>os rationem reſpuere: iſtas interim intellectiones, quas regulis, &amp; idaeis ſuis dirigit Logi<g ref="char:EOLhyphen"/>ca, praxeis, ipſamque Logicam practicam eſſe contendimus.</item>
+                  <item>4 Prima mentis operatio, utpote ſimplex apprehenſio, compoſitionem non admittit niſi objectivam. Attamen veritatem &amp; falſitatem etiam formalem ſuſcipit; objecto ſiqui<g ref="char:EOLhyphen"/>dem conformis &amp; difformis eſſe poreſt.</item>
+                  <item>5 Abſtractio praeciſionis, five in re, five in ratione tantum habeat fundamentum, ſem<g ref="char:EOLhyphen"/>per ſejungit ea, quae ſunt conjuncta, velidem a parte rei, fit tamen ſine errore: Abſtrahen<g ref="char:EOLhyphen"/>um enim non eſt mendacium.</item>
+                  <item>6 Reales naturae proprietates ipſam naturam in ſingularibus comitari advertant, qui communem entis creati affectione ſtatuunt univerſalitatem; ut eſſentiae non niſi ab om<g ref="char:EOLhyphen"/>ni ſingularitate (ſi intentionalem demas) per intellectum liberatae, convenire ſateantur iſlam rationis relationem.</item>
+                  <item>7 Ut praedicatio ſit vera praeter terminorum identitatem quoad rem ſignificatam, re<g ref="char:EOLhyphen"/>quiritur inſuper convenientia in modo ſignificandi. Quo fit ut non indebitae modo, ut con<g ref="char:EOLhyphen"/>tendit Durandus, ſed &amp; falſae ſint praedicationes cûm concretorum de abſtractis &amp; contra, in utrovis ordine, Phyſico aut Metaphyſico; tûm etiam abſtractorum de abſtractis in ordine Metaphyſico. Suadet potius quam perſuadet Ruvius communi legi eximenda eſſe abſtracta ſecundarum notionum.</item>
+                  <item>8 Species ſpecialiſſima v. g. hominis, utcunque multis conſtet gradibus diverſarum per<g ref="char:EOLhyphen"/>fectionú; proxime tamé coaleſcit ex uno gradu generico ſuperiores omnes complectente, &amp; ex gradu differentiali in plures conceptus irreſolubili: ut differentia ſpecifica ſit ſim<g ref="char:EOLhyphen"/>pliciter ſimplex.</item>
+                  <item>9 Relatio praedicamentalis, utut plurium rerum exigat conſortium, &amp; a termino pen<g ref="char:EOLhyphen"/>deat eſſentialiter; cum ſolo tamen fundamento identificatur realiter: ſiquidem nulla re<g ref="char:EOLhyphen"/>latio reſpicit ſeipſam, nulla ſuum terminum includit intrinſece: In connotantes quantis poſlint copiis inſurgant novatores, ut ex fundamento ſimul &amp; termino compoſitam, ſeu potius aggregatam ſtabiliant relationem.</item>
+                  <item>10 Homo qua homo ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> eſt albus neque non albus: contradictio topica reſpuat licet medium rei, medio rationis non vacat.</item>
+                  <item>11 Quam imposſibilis eſt notitia creata ſuper ſeipſam reflexa. tam certum ſecundam men<g ref="char:EOLhyphen"/>tis operatione ſive judicium (quicquid ſtatuatur de enunciatione ejus Symbolo) non ſigni<g ref="char:EOLhyphen"/>ficare formaliter veritatem formalem. Cum autem judicet rem eſſe ant non eſſe, veritatem aut falſitatem objectivam ſignificet neceſſe eſt, ſaltem inſinuative.</item>
+                  <item>12 Utraque veritas, ſimplex &amp; complexa poſita eſt in adaequatione intellectus ad rem; cum hoc tamen diſcrimine, quod illa conſiſtat per ſe primo in adaequatione repraeſentatio<g ref="char:EOLhyphen"/>nis cum objecto, iſta vero in adaequatione dictionis cum re dicta. Adeo ut veritas ſit in ſecunda mentis operatione, non modo, ut in ſubjecto, ſicut eſt in prima, ſed etiam uti in cognoſcente, ut loquitur Aquinas.</item>
+                  <item>13 Hae duae enunciationes; Hominem eſſe animal eſt neceſſe. Homo neceſſario eſt ani<g ref="char:EOLhyphen"/>mal non niſi voce tenus differunt, utraque eſt modalis, idem utriuſque ſenſus, ijdemque termini materiales, Vel hinc liquet in modalibus non modum, ſed praedicatum dicti eſſe attributum materiale.</item>
+                  <item>14 Intellectus non niſi reflectendo ſuper ſuum diſcurſum elicit expreſſe judicium con<g ref="char:EOLhyphen"/>ſequentiae, idque enunciative, non illative. Quare particulae illativae ERGO in ſyllogiſ<g ref="char:EOLhyphen"/>mo nullum reſpondet judicium ab eo quod eſt conſequentis diverſum: &amp; adaequate inter ſe identificantur judicium concluſionis, &amp; illatio; quae tamen diſcurſum integrum ex ante<g ref="char:EOLhyphen"/>cedente &amp; conſequente conflatú ultimo formaliter conſtituit, &amp; a judicio enunciativo di<g ref="char:EOLhyphen"/>ſtinguit. Concluſio eſt de eſſentia ſyllogiſmi.</item>
+                  <item>15 Quam irrefragabiliter verum eſt in effectum redundare cauſae imperfectionem, tam neceſſario debiliorem praemiſſam ſequitur concluſio: cujus proinde veritas, certitudo, neceſſitas, evidentia, ſupernaturalitas, conſimiles in utraque praemiſſa praeſupponunt perfe<g ref="char:EOLhyphen"/>ctiones. Ex altera praemiſla naturali, altera ſupernaturali no ſequitur cócluſio ſupernaturalis.</item>
+                  <item>16 Nativa demonſtrationis poteltas aeſtimanda eſt non tam ex eo quod actu notificat, quá ex eo quod apta nata eſt notificare: Quod forte non ſatis olim advertit <hi>Averroes,</hi> quádo a demonſtratione <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> ſpecie differre docuit demonſtrationé potiſſimá; ut quae demonſtret etiam <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>: quaſi vero dari poteſt demonſtratio de cujus ratione ſit notificare tantum <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</item>
+               </list>
+               <list>
+                  <head>THESES ETHICAE.</head>
+                  <item>OMnis appetitio tendit in bonum, vel ut in medium ad aliud, vel ut in terminnm ſecundum ſe, vel ut in terminum qui appetitui afferat delectationé unde liquet bonum univerſaliſſime ſumptum adaequate dividi in utile honeſtum &amp; delectabi<g ref="char:EOLhyphen"/>le; non quidem tanquam in res, ſed tanquam in rationes diverſas: Quas omnes ut in eandem rem concurrere poſſe recte monet Aquinas, ita in re qualibet neceſſario connexas is demum inveniet, qui fruendis uti &amp; utendis frui paratus fuerit.</item>
+                  <item>2 Sicut oculus eadem viſione lucem &amp; colorem, aut mens eadem intellectione concluſio<g ref="char:EOLhyphen"/>nem &amp; principia attingit; ita voluntas eadem volitione in media &amp; finem tendere poteſt: ne ſemper reapſe diſtinguantur intentio &amp; electio: quicquid contra moliatur <hi>Greg. Arim.</hi>
+                  </item>
+                  <item>3 Genus moris totum continetur relatione ad rationem deliberatam, nec niſi ratione diſtinguitur actus humani eſſe naturale ab ejuſdem eſſe morali: quod licet non intrinſece conſtituat, neceſſario tamen comitatur bonitas vel malitia moralis tanquam paſſio tranſ<g ref="char:EOLhyphen"/>cendens disjuncta: ut evaneſcat actuum moralium indifferentia.</item>
+                  <item>4 Si recte aſſerat Dionyſius bonum conſurgere ex integra cauſa, malum autem ex quo<g ref="char:EOLhyphen"/>cun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> defectu; idé actus in genere moris five interior five exterior, nec ſimul necſucceſſive eſt bonus &amp; malus moraliter: &amp; bona renatorum opera vel nulla ſunt, vel nó ſunt peccata</item>
+                  <item>5 In prudenti conſcientia cui debetur obſequium relucet quaedam irradiatio legis aeter<g ref="char:EOLhyphen"/>nae. Quocirca ea tantum congruentia voluntatis humanae cum dictamine rationis ipſam denominat moraliter bonam, quae ejuſdem involvit conſonantiam cum lege aeterna. Con<g ref="char:EOLhyphen"/>ſcientia itaque vincibiliter errans, eſto liget, certe non obligat poſitive. At vero ne agens ſit perplexus, &amp; peccandi neceſſitate conſtrictus teneatur, in caſu involuntariae atque in<g ref="char:EOLhyphen"/>ſuperabilis ignorantiae, conſcientia erronea ſolvit &amp; poſitivam inducit obligationem: obſtrepant quantum volent Durandi Admiratores.</item>
+                  <item>6 Honeſtas objectiva ſeu bonitas primordialis in genere moris, five in ſe praeſcindat a lege, five oriatur ex lege, nunquam coincidit plane cum bonitate tranſcendentali, nec conſiſtit adaequate in conformatione ad legem, ſed ſemper dicit convenientiam objectiad naturam rationalem: quae quidem convenientia praeter rei entitatem, vel moralem pro<g ref="char:EOLhyphen"/>prietatem in qua fundatur, nil niſi denominationem extrinſecam addit in objecto.</item>
+                  <item>7. De actibus malis verae ſunt hae propoſitiones cauſales omnis actus malus eſt quia prohibitus: Quidam actus ſunt prohibiti quia mali: modo illa intelligatur de cauſa ſuf<g ref="char:EOLhyphen"/>ficienti ad malitiam; iſta vero de prima radice &amp; cauſa malitiae. At vero haec conditio<g ref="char:EOLhyphen"/>nalis eſt falſa ſi Dens non prohiberet odium ſui, non eſset malum: eſt enim odium Dei a ctus intrinſece malus: quicquid oggerat Occam.</item>
+               </list>
+               <list>
+                  <head>THESES PHYSICAE.</head>
+                  <item>INcipit Phyſiologus ubi deſinit primus Philoſophus, &amp; definit ubi incipit medicus. Ut non Phyſiologiae Medicina; ita nec primae Philoſophiae Phyſiologia pars eſt ſtatuenda.</item>
+                  <item>2 Quemadmodum ad non eſſe per ſe terminatur corruptio, ita a non eſſe per ſe pro<g ref="char:EOLhyphen"/>ficiſcitur generatio: ut neque illam forma geniti, neque iſtam forma corrupti principiet, niſi per accidens. Quamobrem ludant in re ſeria vel ſerio hallucinentur oportet, qui cum Franciſco Le reez ex principiorum albo expunctum eunt privationem, ut formam rece<g ref="char:EOLhyphen"/>dentem ejus loco ſubſtituant.</item>
+                  <item>3 Materia ſublunaris, ſicut contrariarum qualitatum incurſum, admittendo individuis molitur interitum, ita alias atque alias formas indiſcriminatim appetendo ac recipiendo rerum naturalium ſpecies praeſtat incolumes, &amp; quaſi immortalitatis aemulas: Quod non fatis advertit ólim Avicéna, qui perperá e medio tollere nixus eſt ingéitú materiae appetitú</item>
+                  <item>4 Actui ſemper neceſſe eſt proportione reſpondeat potentia. Unde formae naturales naturalem, ſupernaturales vero non niſi obedientialem in materia inveniunt potentiam.</item>
+                  <item>5 Quantam implicat repugnantiam inde educi formam, ubi nulla praeceſſerit privatio in ſubjecto praeſuppoſito; tantam prae ſe fert improbabilitatem eorum Philoſophia, qui cum <hi>Balth. Tellez.</hi> in prima rerum molitione non creativa ſed eductiva actione productas fuiſſe contendunt formas ſubſtantiales, tam caeleſtes, quam elementares.</item>
+                  <item>6 Sive mediata ſive immediata dependentia ſtatuatur unio partium Phyſice compo<g ref="char:EOLhyphen"/>nentium, impoſſibilé eſſe compoſiti Phyſici creationem aegre nobis perſuaſerunt <hi>Vaſquez.</hi> &amp; <hi>Tell.</hi> Quippe in una ſimplici actione incompoſſibiles judicamus creationis &amp; eductionis rationes formales.</item>
+                  <item>7 Generatio etiam praeciſe ſpectata ita actuat ſubjectum, ut ipſum ordinet ac promoveat ad actum perfectiorem: eſt<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> proinde actus entis in potentia &amp;c. Qui motui Phyſico ut ſic, eſtentialem faciunt ſucceſſionem, aut continuitatem, ejus naturam arctioribus, quam par eſt, claudunt cancellis.</item>
+                  <item>8 Zenoniſticam continui compoſitionem mordicus tueantur illi, quibus poſſibilis vide<g ref="char:EOLhyphen"/>tur puncti diviſio, aut indiviſibilium in continuo immediata cohaeſio. Nos certe quandiu nova non affulſer it lux, peripateticam continui compoſitionem ex partibus in infinitum diviſibilbus amplectemur.</item>
+                  <item>9 Corpus Phyſicum ut eſt actu finitum, ita eſt poteſtate infinitum; ut laxe philoſo<g ref="char:EOLhyphen"/>phentur qui disjunctam ejus affectionem ſtatuunt finitum vel infinitum.</item>
+                  <item>10 Corporis replicati attributa repugnantia tueri definant, &amp; litem illam inteſtinam de qualitate actionis per quam in altari praeſens fiat Chriſti humanitas paululum ſuſpen<g ref="char:EOLhyphen"/>dant tam <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> quam <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> affertores, donec a contradictionis implicatione vindicare valuerint ejuſdem a ſeipſo ſeparationem.</item>
+                  <item>11 Motui ſucceſſionis cauſam abunde ſufficit medium, prout intercapedinem &amp; diſtan<g ref="char:EOLhyphen"/>tiam extremorum cohibet: ut vana et inanis ſit eorum ſententia, qui in inani divinitus poſſibili mot um, in inſtanti peractum iri autumant.</item>
+                  <item>12 AEvo aut aevi modo menſurantur ſubſtantiae corporeae; nec ſunt in tempore niſi prout ſubjacent motui contra ac contendit Fonſeca. Scilicet menſurato congruam &amp; congeneam opportet eſſe menſuram. Neque tempus neque eſſe in tempore eſt corporis Phyſici affectio intrinſeca.</item>
+                  <item>13 Miſta qua talia moventur <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> teſte Philoſ. 1. de coelo. Cap. 2. Ac proin<g ref="char:EOLhyphen"/>de motu recto:ne corpori ſimplici ſimplex aut miſto miſtus motus correſpondeat ex aequo.</item>
+                  <item>14 Qai cum Mirandulano corporum coeleſtium latentes inficiantur influentias in ſublu<g ref="char:EOLhyphen"/>naria; ipſi lateant, vel ſaltem caveant ne fruſtra eſſe tantam ſyderum copiam, tot varios motus atque concurſus fateri cogantur.</item>
+                  <item>15 Quae virtute magnetica cientur, quo graviora tardius, quo leviora celerius moventur. Non magnetice trahuntur aut pelluntur, ſed ſponte ac per vires congenitas ad ſuas ſedes contendunt gravia &amp; levia, ut optata fruantur quiete. Nullum elementum in ſuo loco na<g ref="char:EOLhyphen"/>turali gravitat aut levitat.</item>
+                  <item>16 Eadem actione expellitur forma antiqua &amp; inducitur nova: ut verum ſit illud effa<g ref="char:EOLhyphen"/>tum Generatio unius&amp;c. non modo in ſenſu concomitantiae propter neceſſariam iſta<g ref="char:EOLhyphen"/>rum mutationum inter ſe connexionem; ſed etiam in ſenſu identico propter realem cor<g ref="char:EOLhyphen"/>ruptionis converſivae cum generatione ordinaria identificationem.</item>
+                  <item>17 Agentis finis eſt aſſimilatio patientis, quod proinde debet eſſe poteſtate tale quale agens eſt actu: adeo ut ubi non eſt proportio majoris inaequalitatis, ibi nullus ſit actioni locus. Quare neque idem agit in ſe ipſum univoce, neque ſimile in ſimile ſecundam formam &amp; gradum ſint licet diſſimiles adjunctae diſpoſitiones. Reclamet ut voluerit Scotus.</item>
+                  <item>18 Ad locum unde exeunt Flumina revertuntur, ut denuo fluant. Nec qui ex Aere deflu<g ref="char:EOLhyphen"/>unt imbres, nec qui in terrae cavernis gignuntur vapores; ſed ipſum mare per meatus ſub<g ref="char:EOLhyphen"/>terraneos huc illuc erumpens in commodum univerſi fontibus &amp; fluviis copioſis ac per<g ref="char:EOLhyphen"/>ennibus ſcaturiginis ſufficit materiam.</item>
+                  <item>19 Radius oblique incidens in objectum non eo revertitur, unde eſt profectus ſed in a<g ref="char:EOLhyphen"/>lias partes reflectitur. In viſionis itaque negotio radiorum viſualium ab objecto remeati<g ref="char:EOLhyphen"/>onem fruſtra in ſubſidium vocaverint extramiſſionis Platonicae Propugnatores. Viſio non fit emiſſione radiorum ſed ſuſceptione ſpecierum: quarum diviſibilitatem objectivam &amp; repreſentativam arguit ipſarum munus vicarium.</item>
+                  <item>20 Parca nimis, &amp; indiſtincta, ſi non etiam hominis dignitati &amp; naturae ipſius benig<g ref="char:EOLhyphen"/>nignitati injuria eſt eorum Philoſophia; qui ab animae ſubſtantia &amp; inter ſe indiſtinctas ſtatuunt potentias vitales.</item>
+               </list>
+               <list>
+                  <head>THESES METAPHYSICAE.</head>
+                  <item>AEQue irrefragabilis veritatis eſto utrumque, primae Philoſophiae ſubjectam materi<g ref="char:EOLhyphen"/>am eſſe immaterialem, &amp; eidem non ſubjici ceateras ſcientias ut ſubalternas,</item>
+                  <item>2 Vel non ſolus Deus eſt ens per eſſentiam, vel ens ſubſtantive non eſt plane idem atque exiſtens. In rebus creatis diſtinguuntur aliquatenus ex natura rei eſ<g ref="char:EOLhyphen"/>ſentia &amp; exiſtentia.</item>
+                  <item>3 Quicquid eſt reale entis conceptum ſua ratione intrinſeca involvat neceſſe eſt. Unum, verum, bonum, vel non ſunt realia entis attributa, vel inter ſe, &amp; ab ente ſunt indiſtincta.</item>
+                  <item>4 Gradus Metaphyſici generis &amp; differentiae ut non diſtinguutur inter ſe, ita nec com<g ref="char:EOLhyphen"/>ponunt ſpeciem, niſi per intellectum. Neque enim repugnat idem eſſe principium conveni<g ref="char:EOLhyphen"/>entiae inadaequatae &amp; diſconvenientiae quicquid obtendant Scotiſtae, Compoſitio ex genere &amp; differentia non eſt realis, ſed rationis duntaxat.</item>
+                  <item>5 Primi peccati radix &amp; origo non fuit peccatum nec malum, ſed connaturalis quaedam peccantis imperfectio, adjunctam habens libertatem, cujus vi ab actionum ſuarum norma deſicere potuit. Malum in actione aut in effectu, utut imperfectionem ſemper argu<g ref="char:EOLhyphen"/>at in cuaſa, habeatque cauſam deficientem; praeviam tamen cauſae malitiam non ſemper praeſupponit.</item>
+                  <item>6 Nullum agens operatur naturaliter ubi non eſt: uſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> adeo neceſſaria efficientis con<g ref="char:EOLhyphen"/>ditio eſt ipſius approximatio ad objectum. Poteſt tamen cauſa ſecunda ita divinitus ele<g ref="char:EOLhyphen"/>vari, ut immediate agat in remotum, imo &amp; extra ſuam ſphaeram, indiſtantiam ſupplente cauſa prima: cui ipſi repugnat agere in remotum. Scilicet ex ejus operatione infallibiliter colligitur praeſentia omnipotentiae divinae, quae eſt ipſa prima ogganniant quantum voluerint Scotiſtae &amp; Occamiſtae.</item>
+                  <item>7 Ens rationis, ſicut veram eſſentiam aut exiſtentiam non vendicat, ita nec per veram eſticientiam fieri poſtulat; ſed per ſimilitudinariam quandam ſpeciei expreſſae actionem in objecto repraeſentando ſitam ſuum eſſe ſictum in ratione acquirit: adeo ut ſimul cognoſ<g ref="char:EOLhyphen"/>catur &amp; fiat, idque a ſolo intellectu, ut cut ſoli inter omnes animae facultates conveniat dare eſſe objectivum fictum objecto intrinſecum.</item>
+               </list>
+            </div>
+         </div>
+         <div type="colophon">
+            <p>EDINBURGI, Excudebat GIDEON LITHGO VV. Anno Dom. 1648.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
